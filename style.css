@@ -1,0 +1,130 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #223366;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  .logo {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px;
+  }
+  
+  
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .nav-links li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  #home {
+    background: linear-gradient(to bottom, #5588cc, #aad4ff);
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  /* Landing Page Styles */
+  #landing {
+    background: linear-gradient(to bottom, #223366, #5588cc);
+    padding: 100px;
+    font-size: xx-large;
+    font-style:italic;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* Upload Page Styles */
+  #upload {
+    background: linear-gradient(to bottom, #5588cc, #aad4ff);
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* Processing Page Styles */
+  #processing {
+    background: linear-gradient(to bottom, #5588cc, #aad4ff);
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .loader {
+    /* Add styling for your loader animation */
+  }
+  
+  /* Results Page Styles */
+  #results {
+    background: linear-gradient(to bottom, #5588cc, #aad4ff);
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* User Account and Management Styles */
+  #account {
+    background: linear-gradient(to bottom, #5588cc, #aad4ff);
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* Help and Support Styles */
+  #help {
+    background: linear-gradient(to bottom, #5588cc, #aad4ff);
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #223366;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .footer-links li {
+    margin: 0 10px;
+  }
+  
+  .footer-links li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .social-media {
+    /* Add styling for your social media icons or links */
+  }
+  
